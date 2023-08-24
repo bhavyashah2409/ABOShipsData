@@ -1,1 +1,1 @@
-This is where the different subfolders(with names as the date they were taken on) of Seaships folders are stored.
+This is where the different subfolders(with names as the date they were taken on) of Seaships folders are stored. Please mind that the training, validation and test images are all in the same space. Test labels do not have labels in the CSV file in the parent folder
