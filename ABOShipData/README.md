@@ -1,0 +1,1 @@
+This folder contains all the test images, YOLOv8 data format, train_df.csv, val_df.csv after running CopyDataToFolder.py, CreateTrainTestSplits.py, DataEDA.ipynb, Rough.py, etc on various components of the folder.
