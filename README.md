@@ -1,2 +1,2 @@
 # ABOShipsData
-ABOShips dataset
+Folder structure of ABOShips dataset inside ABOShipsDataset.zip
