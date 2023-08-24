@@ -1,0 +1,11 @@
+Boat
+Cargoship
+Cruiseship
+Ferry
+Militaryship
+Miscboat
+Miscellaneous
+Motorboat
+Passengership
+Sailboat
+Seamark
