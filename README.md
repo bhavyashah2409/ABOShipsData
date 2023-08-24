@@ -1,2 +1,2 @@
 # ABOShipsData
-Folder structure of ABOShips dataset inside ABOShipsDataset.zip
+Folder structure of ABOShips dataset after extraction and manipulation.
